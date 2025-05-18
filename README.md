@@ -52,7 +52,7 @@ Forest fires result in massive environmental and economic losses, including the 
   4)Make Predictions
   
 ## 📊 Results
-  - Achieved ~80% validation accuracy
+  - Achieved ~81% validation accuracy
   - Successfully detected fire presence from custom test images
   - Training and validation accuracy/loss graphs show good convergence
 
